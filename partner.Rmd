@@ -1,0 +1,24 @@
+---
+title: "partner.Rmd"
+author: "Jaeyeon Won"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner
+Name: Jaeyeon Won
+GitHub Username: jaeyeonw
+
+Owner
+Name: Alec Meyer
+GitHub Username: Legomanalec
+
+The owner commit hw1.Rmd and hw1.html
+
+The commit ID is b55f91e
+
+I have not encountered any errors. One nice tip for making Git/GitHub could be getting used to the commands.
